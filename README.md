@@ -4,7 +4,7 @@ Basic card game with ReactJS. Play and have fun trying to get the pairing match!
 
 You'll need to clone and `npm install` all dependencies, and then `npm run start` to play the game
 
-Have fun!
+[Have fun here!](https://react-card-memory-game-polescalera10.vercel.app/)
 
 # Getting Started with Create React App
 
